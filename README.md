@@ -23,3 +23,9 @@ AI Learning Buddy is an interactive web application built using **Python**, **St
 - JSON
 
 ---
+
+## 🌐 Live Demo
+
+🔗https://ai-learning-buddy-machinelearning.streamlit.app/
+
+---
